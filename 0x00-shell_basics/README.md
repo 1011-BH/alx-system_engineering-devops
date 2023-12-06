@@ -11,15 +11,15 @@ The tasks cover various aspects of shell scripting and file manipulation, focusi
 Each task is encapsulated in a separate script file within the `0x00-shell_basics` directory. Below is a list of tasks included in this project along with their respective answers:
 
 0. **Where am I?**
-   - Script: [0-current_working_directory](./0x00-shell_basics/0-current_working_directory)
+   - Script: [0-current_working_directory](./0-current_working_directory)
    - Description: Prints the absolute path name of the current working directory.
 
 1. **What’s in there?**
-   - Script: [1-listit](./0x00-shell_basics/1-listit)
+   - Script: [1-listit](./1-listit)
    - Description: Displays the contents list of the current directory.
 
 2. **There is no place like home**
-   - Script: [2-bring_me_home](./0x00-shell_basics/2-bring_me_home)
+   - Script: [2-bring_me_home](./2-bring_me_home)
    - Description: Changes the working directory to the user’s home directory.
 
 3. **The long format**
